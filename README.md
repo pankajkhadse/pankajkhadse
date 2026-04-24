@@ -1,5 +1,5 @@
 # 💫 About Me:
-my name is pankaj khadse i am full stack web developer who is interested in developing systems in .net frame work 
+Hello, my name is Pankaj Khadse. I am Full Stack Web Developer. 
 
 
 ## 🌐 Socials:
